@@ -131,8 +131,3 @@ Maecenas molestie pellentesque felis mauris nisl viverra sapien, in inceptos imp
 # References
 
 `r knitcitations::write.bibtex(file = "references.bib")`
-
-```{r echo=FALSE, message=FALSE}
-## create ref cited section
-knitcitations::write.bibtex(file = "references.bib")
-```

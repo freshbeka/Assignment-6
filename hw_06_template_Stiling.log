@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.28)  28 FEB 2021 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.28)  28 FEB 2021 14:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,8 +734,8 @@ Package rerunfilecheck Info: File `hw_06_template_Stiling.out' has not changed.
 (rerunfilecheck)             Checksum: 542937513C95E343B27E8D3FA51E99AD;1439.
  ) 
 Here is how much of TeX's memory you used:
- 10158 strings out of 480971
- 148753 string characters out of 5906863
+ 10161 strings out of 480971
+ 148790 string characters out of 5906863
  451209 words of memory out of 5000000
  27146 multiletter control sequences out of 15000+600000
  452990 words of font info for 60 fonts, out of 8000000 for 9000
@@ -756,10 +756,10 @@ t/fonts/type1/public/lm/lmr17.pfb></Users/rebekahstiling/Library/TinyTeX/texmf-
 dist/fonts/type1/public/lm/lmr8.pfb></Users/rebekahstiling/Library/TinyTeX/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb></Users/rebekahstiling/Library/TinyTeX/
 texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on hw_06_template_Stiling.pdf (18 pages, 199531 bytes).
+Output written on hw_06_template_Stiling.pdf (18 pages, 200602 bytes).
 PDF statistics:
- 253 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
+ 56 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 

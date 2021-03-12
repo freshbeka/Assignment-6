@@ -15,13 +15,15 @@ toc: TRUE
 toc-depth: 3
 header-includes:
 - \usepackage{fancyhdr}
-- \pagestyle{fancy}
-- \fancyhead[LO,LE]{Stiling}
-- \fancyhead[RO,RE]{Assignment 6}
-- \fancyfoot[CE,CO]{\thepage}
 bibliography: "references.bib"
 csl: "ecology.csl"
 ---
+
+\pagestyle{fancy}
+\fancyhead[LO,LE]{Stiling}
+\fancyhead[RO,RE]{Assignment 6}
+\fancyfoot[CE,CO]{\thepage}
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 

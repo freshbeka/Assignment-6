@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.28)  28 FEB 2021 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.28)  12 MAR 2021 09:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -389,6 +389,19 @@ rs
 \f@nch@O@olf=\skip60
 \f@nch@O@orf=\skip61
 )
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 66.
+
+
+Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 67.
+
+
+Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 68.
+
+
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend
 -pdftex.def
 File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
@@ -397,24 +410,24 @@ File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
 ) (./hw_06_template_Stiling.aux)
 \openout1 = `hw_06_template_Stiling.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
-LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
 
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstop
 df-base.sty
@@ -427,7 +440,7 @@ f-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 70.
+Package hyperref Info: Link coloring OFF on input line 74.
 
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.st
 y
@@ -443,9 +456,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count280
 )
-LaTeX Info: Redefining \ref on input line 70.
-LaTeX Info: Redefining \pageref on input line 70.
-LaTeX Info: Redefining \nameref on input line 70.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
 (./hw_06_template_Stiling.out) (./hw_06_template_Stiling.out)
 \@outlinefile=\write3
 \openout3 = `hw_06_template_Stiling.out'.
@@ -485,37 +498,37 @@ LaTeX Info: Redefining \nameref on input line 70.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 7
-2.
+6.
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 7
-2.
+6.
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-72.
+76.
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-72.
+76.
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 72.
+(Font)              <12> on input line 76.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 72.
+(Font)              <8> on input line 76.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 72.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 72.
+(Font)              <6> on input line 76.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 76.
 
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 72.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 76.
 
 (/Users/rebekahstiling/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -529,43 +542,16 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \tf@toc=\write4
 \openout4 = `hw_06_template_Stiling.toc'.
 
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 79.
-
-
-Package fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 80.
-
-
-Package fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
-less on input line 81.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.85 \chapter{Abstract}\label{abstract}}
+l.83 \chapter{Abstract}\label{abstract}}
                                          [1
 
-]
+] [2
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[2
+] [3
 
 ]
 
@@ -576,27 +562,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[3
-
-]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[4]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[5
+[4] [5
 
 ]
 
@@ -641,16 +607,8 @@ File: hw_06_template_Stiling_files/figure-latex/random_walk-1.pdf Graphic file
 (type pdf)
 <use hw_06_template_Stiling_files/figure-latex/random_walk-1.pdf>
 Package pdftex.def Info: hw_06_template_Stiling_files/figure-latex/random_walk-
-1.pdf  used on input line 265.
+1.pdf  used on input line 263.
 (pdftex.def)             Requested size: 437.6406pt x 248.93317pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
 [10
 
 ]
@@ -660,7 +618,7 @@ File: hw_06_template_Stiling_files/figure-latex/rw_diff-1.pdf Graphic file (typ
 e pdf)
 <use hw_06_template_Stiling_files/figure-latex/rw_diff-1.pdf>
 Package pdftex.def Info: hw_06_template_Stiling_files/figure-latex/rw_diff-1.pd
-f  used on input line 293.
+f  used on input line 291.
 (pdftex.def)             Requested size: 442.6594pt x 248.93317pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -688,16 +646,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[13]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[14
+[13] [14
 
 ]
 
@@ -717,16 +666,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[17
+[16] [17
 
 ] (./hw_06_template_Stiling.aux)
 Package rerunfilecheck Info: File `hw_06_template_Stiling.out' has not changed.
@@ -734,10 +674,10 @@ Package rerunfilecheck Info: File `hw_06_template_Stiling.out' has not changed.
 (rerunfilecheck)             Checksum: 542937513C95E343B27E8D3FA51E99AD;1439.
  ) 
 Here is how much of TeX's memory you used:
- 10161 strings out of 480971
- 148790 string characters out of 5906863
- 451209 words of memory out of 5000000
- 27146 multiletter control sequences out of 15000+600000
+ 10160 strings out of 480971
+ 148764 string characters out of 5906863
+ 451210 words of memory out of 5000000
+ 27145 multiletter control sequences out of 15000+600000
  452990 words of font info for 60 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  71i,12n,74p,256b,384s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -756,7 +696,7 @@ t/fonts/type1/public/lm/lmr17.pfb></Users/rebekahstiling/Library/TinyTeX/texmf-
 dist/fonts/type1/public/lm/lmr8.pfb></Users/rebekahstiling/Library/TinyTeX/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb></Users/rebekahstiling/Library/TinyTeX/
 texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on hw_06_template_Stiling.pdf (18 pages, 200602 bytes).
+Output written on hw_06_template_Stiling.pdf (18 pages, 199644 bytes).
 PDF statistics:
  258 PDF objects out of 1000 (max. 8388607)
  219 compressed objects within 3 object streams
